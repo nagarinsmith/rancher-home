@@ -1,0 +1,5 @@
+rancher:
+  console: ubuntu
+hostname: nagarancher
+ssh_authorized_keys:
+ - ssh-rsa ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDZIu+3V+xXdFnxU2pjLtiSjO0CJ03XWz+xvIQu5W+1+DuuKPKw5CaWtBh6eFbMIEbGY9Zwo4mkNCeoZNUn4ciMavGtXfb5q0gxd1JcK02awc4NaK2uLWm/AJ1zSVdSIgWrvvGceFibDYJ1zKawEWJCR3OMUv0t5PU1ynxbvi45S4S0NH+XYDIh8uZaloWeHzVnloJ8Cp30eXKR41DRzy8ZUHA+WEnoEmIoVVKJwc2IXlMJPigdJKP5rGOgpMEEdM2oBbTiZdSF24Ihm2WFc4fjMAL5dVxx5WcOYFo8lj1OP532c+FkMaGap+qjwR/30o7dxLT+hemxsAXkyV04hXxP paul@Paul-Claudius-MacBook-Pro.local
